@@ -1,0 +1,35 @@
+## Nome do projeto
+Move.it 
+
+## Descrição do projeto
+<p align="center"> O move.it é desenvolvido para ajudar pessoas que fica
+m por muito tempo no computador, seja trabalhando ou jogando. São desafios com a finalidade de fazer a pessoa se movimentar, exercitar, seja o corpo ou os olhos. Cada desafio vale ponto xp, e a cada quantidades de xp ganhados por atividade realizada, a pessoa passa de level.</p>
+
+<p align="center"> Move.it it was developed to help people who are always in front of a computer, either working or playing. There are challenges that will make the person exercise, could be your body or eyes. Each challenge, when accomplished is worth points xp, and to each points earned by the challenge, it will result in a level up. </p>
+
+Tabela de conteúdos
+===================
+<!--ts-->
+*[Sobre] [About]
+*[Tabela de conteúdos] [Table of Contents]
+*[Instalação] [Installation]
+*[Como usar]  [How to use]
+    *[Pre Requisitos] [Requires]
+    *[Local files]
+    *[Remote files]
+    *[Multiple files]
+    *[Combo]
+*[Tests]
+*[Tecnologia]
+<!--te-->
+
+<h4 align="center">
+    Move.it - Em construção...
+
+
+
+
+### Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+-[React]
+-[TypeScript]    

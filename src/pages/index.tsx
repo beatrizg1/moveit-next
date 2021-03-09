@@ -28,7 +28,10 @@ export default function Home(props: HomeProps) {
     challengesCompleted={props.challengesCompleted}
     >
 
+      <div className="sidebar-container"></div>
     <div className={styles.container}> 
+
+
       <Head> 
         <title> Início | move.it</title>
       </Head>

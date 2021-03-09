@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Tue Mar 09 2021 11:00:56 GMT-0300 (Brasilia Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/pages/index.tsx
+
+
+Created files:
+* .autogit/logs/log-9-2-2021-10-30-46.txt
+* src/components/SideBar.tsx
+
+
+Deleted files:
+
+
+Renamed files:
+* [object Object]

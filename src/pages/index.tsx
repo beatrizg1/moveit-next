@@ -40,7 +40,6 @@ export default function Home(props: HomeProps) {
       <CountdownProvider>
       <section>
         <div>
-          <SideBar/>
           <Profile />
           <CompletedChallenges/>
           <Countdown/>

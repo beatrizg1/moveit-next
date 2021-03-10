@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Wed Mar 10 2021 12:18:44 GMT-0300 (Brasilia Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/pages/index.tsx
+
+
+Created files:
+* src/components/SideBar.tsx
+* src/styles/components/SideBar.module.css
+
+
+Deleted files:
+
+
+Renamed files:
